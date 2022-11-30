@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ShortcutKeysToSwitchLanguages",
+	"Description": "快捷键语言切换",
+	"Category": "Other",
+	"CreatedBy": "魏晴天",
+	"CreatedByURL": "https://space.bilibili.com/20786091",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/1afbca76522b41bf989c31c93540abcd",
+	"SupportURL": "",
+	"EngineVersion": "5.1.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ShortcutKeysToSwitchLanguages",
+			"Type": "Editor",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			]
+		}
+	]
+}
